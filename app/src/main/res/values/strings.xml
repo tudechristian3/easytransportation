@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Easy Transportation</string>
-    <string name="title_activity_booking">Map</string>
+    <string name="app_name">Material Login Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">description</string>
+    <string name="password">password</string>
 </resources>
